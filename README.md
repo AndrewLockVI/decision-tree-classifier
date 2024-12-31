@@ -6,4 +6,4 @@ Included in this repository (in the 'Old' directory) is another implementation o
 
 # Usage
 
-To train and predict with the classifier simply clone the repository and make changes to the 'Usage.py' file as needed. The file currently shows a sample usage of the library that performs training and evaluation for on MNIST dataset.
+To train and predict with the classifier simply clone the repository and make changes to the 'Usage.py' file as needed. The file currently shows a sample usage of the library that performs training and evaluation on MNIST dataset.
